@@ -1,6 +1,6 @@
-# When the Higher Education System Flashes Red
+# When It Comes to Publishing, the House Rules
 
-#### Governance Opacity, Fiduciary Failure, and the Risk of Systemic Collapse
+#### How gatekeepers shape what we read, and the reality we think we know
 
 ![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/got_it_publishing.jpg?raw=true)
 
@@ -79,7 +79,7 @@ And so we walk through the city of information as though it were a walled town. 
 ### Cite this work:
 
 ```
-Peter Kahl, ‘When the Higher Education System Flashes Red: Governance Opacity, Fiduciary Failure, and the Risk of Systemic Collapse’ (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules>
+Peter Kahl, ‘When It Comes to Publishing, the House Rules: How gatekeepers shape what we read, and the reality we think we know’ (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules>
 ```
 
 ### Publisher & Licence:
