@@ -2,11 +2,9 @@
 
 #### How gatekeepers shape what we read, and the reality we think we know
 
-![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/rejected_does_not_meet.jpg?raw=true)
-
 by Peter Kahl, 15 August 2025
 
----
+![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/rejected_does_not_meet.jpg?raw=true)
 
 The first thing to understand about being published is that it has never been a pure reward for brilliance. That is a polite fiction — useful to the publisher, flattering to the author, reassuring to the reader — but a fiction all the same. From the moment presses began to roll, publishers knew they were in possession of something more valuable than paper and ink: the power to decide what would exist in the public mind.
 
