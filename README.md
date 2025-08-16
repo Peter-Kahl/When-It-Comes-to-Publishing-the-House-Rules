@@ -2,8 +2,6 @@
 
 #### How gatekeepers shape what we read, and the reality we think we know
 
-by Peter Kahl, 15 August 2025
-
 ![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/rejected_does_not_meet.jpg?raw=true)
 
 by Peter Kahl, 15 August 2025
