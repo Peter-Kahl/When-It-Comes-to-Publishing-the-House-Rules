@@ -2,7 +2,7 @@
 
 #### How gatekeepers shape what we read, and the reality we think we know
 
-![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/got_it_publishing.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/blob/main/rejected_does_not_meet.jpg?raw=true)
 
 by Peter Kahl, 15 August 2025
 
