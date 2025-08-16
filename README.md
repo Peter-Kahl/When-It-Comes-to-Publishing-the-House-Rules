@@ -74,6 +74,10 @@ And so we walk through the city of information as though it were a walled town. 
 
 ---
 
+### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/When-It-Comes-to-Publishing-the-House-Rules/master/Kahl_P_When_It_Comes_to_Publishing_the_House_Rules_15-AUG-2025.pdf)
+
 ### Cite this work:
 
 ```
